@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Stepping into Big Data with Azure Databricks and Apache Spark",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a beginner friendly article to help explain Big Data and Azure Databricks.",
+    url: "https://medium.com/ms-club-of-sliit/stepping-into-big-data-with-azure-databricks-and-apache-spark-215353f71d9d,
   },
   {
-    title: "Web Development for Beginners",
+    title: "Deploy a React web application with Azure App Service",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Wrote a beginner friendly article to help explain how to deploy a React web application with Azure App Service.",
+    url: "https://medium.com/@dasuntheekshana/deploy-a-react-web-application-with-azure-app-service-d73e64cda0dd",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a simple resume site using HTML, CSS, Javascript and deployed it using Github Pages.",
+    url: "https://dasuntm.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Development and Tesing frameworks",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A video explaining development and testing frameworks done for undergraduate students at my university.",
+    url: "https://www.youtube.com/watch?v=VhLmNM-z0L8&t=1s",
   },
 ];
 
