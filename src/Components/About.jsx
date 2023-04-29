@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a highly self-motivated and enthusiastic individual with excellent communication and interpersonal skills, who is actively seeking for an internship in the Data Science field. I strive to achieve the best I can through hard work and perseverance. I am also a strong team player who can blend into many work environments to achieve success as a team. I'm also interested in new technologies and have the mindset to learn and adapt to new technologies.";
+  "I am a highly self-motivated and enthusiastic individual with excellent communication and interpersonal skills, who is passionate in Data Science and Artificial Intelligence. I strive to achieve the best I can through hard work and perseverance. I am also a strong team player who can blend into many work environments to achieve success as a team. I'm also interested in and have the mindset to learn and adapt to new technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
